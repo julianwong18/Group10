@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\julian\\AndroidStudioProjects\\grp10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\julian\\AndroidStudioProjects\\grp10\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LOW\\Desktop\\grp10\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\LOW\\Desktop\\grp10\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LOW\\Desktop\\Computer Science\\CrisisAlertWithVIsualandLocationSupport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\LOW\\Desktop\\Computer Science\\CrisisAlertWithVIsualandLocationSupport\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\julian\\AndroidStudioProjects\\CrisisAlertWithVIsualandLocationSupport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\julian\\AndroidStudioProjects\\CrisisAlertWithVIsualandLocationSupport\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
